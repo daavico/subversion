@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class numeros {
-	//Vaya merda svn
+	//Aixo no funciona be
 
 	static Scanner lector=new  Scanner(System.in);
 	
