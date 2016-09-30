@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class numeros {
-	//Aixo no funciona be
-
+	//Aixo es massa
 	static Scanner lector=new  Scanner(System.in);
 	
 	public static void main(String[] args) {
